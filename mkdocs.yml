@@ -1,0 +1,13 @@
+site_name: Theoros documentation
+site_url: https://docs.theoros.space
+repo_url: https://github.com/theoros-space/theoros-docs
+nav:
+  - Overview: index.md
+  - Product: product.md
+  - Architecture: architecture.md
+  - Glossary: glossary.md
+theme:
+  name: material
+  palette:
+    primary: black
+    accent: deep orange
